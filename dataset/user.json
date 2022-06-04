@@ -1,0 +1,20 @@
+{
+    [  
+        {
+            "userID":"123", 
+            "productID": "A01",
+            "tatalog": 
+            [
+            ],
+            "type": "skirt"
+        }
+        {
+            "userID":"124", 
+            "productID": "A02",
+            "tatalog": 
+            [
+            ],
+            "type": "t-shirt"
+        }
+    ]  
+}

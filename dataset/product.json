@@ -1,0 +1,23 @@
+{
+    "data_saling":
+    [
+        {
+            "productID": "A01",
+            "userID":"123",
+            "product_navigation": "D:\\project\\vid\\testcam.mp4",
+            "tatalog": 
+            [
+            ],
+            "type": "skirt"
+        },
+        {
+            "productID": "A02",
+            "userID":"124", 
+            "product_navigation": "D:\\project\\vid\\test2.mp4",
+            "tatalog": 
+            [
+            ],
+            "type": "t-shirt"
+        }
+    ]
+}  
